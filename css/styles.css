@@ -1,0 +1,42 @@
+body {
+  background-color: #E8F6EF;
+  font-family: "Lucida Console", monospace;
+  padding-bottom: 15px;
+}
+
+h1 {
+  color: #219F94;
+}
+
+h3 {
+  color: #31c4b8;
+}
+
+hr {
+  border-radius: 20px;
+  border-style: solid none none;
+  border-width: 5px;
+  color: grey;
+  width: 5%;
+}
+
+a, a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+li {
+  margin-top: 8px;
+}
+
+.contactLink {
+  background-color: #ffffff00;
+  border: 3px solid #31c4b8;
+  border-radius: 50px;
+  padding: 3px;
+  text-decoration: none;
+}
+
+.contactLink:hover {
+  background-color: #31c4b8;
+}

@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+}
+
+label {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+input, textarea {
+  border: 2px solid #31c4b8;
+  margin: 0;
+  outline: none;
+}
+
+input[type="submit"] {
+  background-color: #ffffff00;
+  border: 3px solid #31c4b8;
+  border-radius: 50px;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 10px;
+  padding: 4px;
+}
+
+input[type="submit"]:hover {
+  background-color: #31c4b8;
+}
+
+#hrTop {
+  margin-bottom: 30px;
+}
+
+#hrBottom {
+  margin-top: 30px;
+}
