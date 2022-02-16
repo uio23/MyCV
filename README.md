@@ -1,2 +1,2 @@
-# MyCV
+# myCV
 My CV
