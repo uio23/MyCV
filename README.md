@@ -1,2 +1,2 @@
-# Curriculum Vitae
-### This is my virtual webiste CV
+# myCV
+#### This is my virtual webiste CV.
