@@ -25,6 +25,10 @@ a, a:visited {
   text-decoration: none;
 }
 
+.fa-link {
+  color: #a4ddc0;
+}
+
 li {
   margin-top: 8px;
 }
